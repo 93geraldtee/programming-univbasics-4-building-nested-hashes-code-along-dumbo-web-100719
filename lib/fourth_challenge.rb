@@ -6,14 +6,14 @@ def fourth_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
         :friend_one => {
-          :name "",
-          :age "",
-          :attitude ""
+          :name "Benvolio",
+          :age "17",
+          :attitude "worried"
         },
         :friend_two => {
-          :name "",
-          :age "",
-          :attitude "",
+          :name "Mercutio",
+          :age "18",
+          :attitude "hot-headed"
         }
       ]
    }, 
@@ -23,14 +23,14 @@ def fourth_challenge
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
         :friend_one => {
-          :name "",
-          :age "",
-          :attitude "",
+          :name "Steven",
+          :age "30",
+          :attitude "confused"
         },
         :friend_two => {
-          :name "",
-          :age "",
-          :attitude "",
+          :name "Nurse",
+          :age "44",
+          :attitude "worried"
         }
       ]
    }
